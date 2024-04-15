@@ -1,0 +1,14 @@
+1. What distinguishes normal HTML elements from semantic HTML elements?
+Ans: Semantic HTML tags are tags that define the meaning of the content they contain, example: header and footer
+    WHILE Non-semantic elements don't tell anything about the content they contain and do not have a specific 
+    meaning.- example: div and span
+
+2. Explain the disparity between closing tags and self-closing tags in HTML
+Ans: A self-closing tag is a kind of HTML tag that does not need to be closed manually by its closing tag,
+    which means it does not have a separate closing tag WHILE Closing tags end a section of page content which 
+    an opening tag begins, it requires an opening tag such as <body>.
+
+3. What distinguishes inline elements from block elements in HTML?
+Ans: Block elements always starts on a new line, and the browsers automatically add some space 
+    (a margin) before and after the elements WHILE Inline elements display in a line - they do 
+    not force the text after them to a new line.
